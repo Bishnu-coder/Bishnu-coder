@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pygamergui-0.6](https://github.com/Bishnu-coder/pygamergui-0.6)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning [Django](https://www.djangoproject.com/)
 
 - 👯 I’m looking to collaborate on [Pygamergui-0.6](https://github.com/Bishnu-coder/pygamergui-0.6)
 
