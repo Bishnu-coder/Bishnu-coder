@@ -13,9 +13,9 @@
 
 - 📝 I regularly write articles on [My website](https://bishnu-coder.github.io)
 
-- 💬 Ask me about **Pygame**
+- 💬 Ask me about [Pygame](https://www.pygame.org/)
 
-- 📫 How to reach me **https://www.facebook.com/bishnukohar01/**
+- 📫 How to reach me [Facebook](https://www.facebook.com/bishnukohar01/)
 
 - ⚡ Fun fact **I want to Become an ethical hacker**
 
