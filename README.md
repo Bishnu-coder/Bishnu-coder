@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishnu Parjapati</h1>
 <h3 align="center">A python Learner from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishnu-coder&label=Profile%20views&color=0e75b6&style=flat" alt="bishnu-coder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishnu-coder" alt="bishnu-coder" /></a> </p>
-
 - 🔭 I’m currently working on [Pygamergui-0.6](https://github.com/Bishnu-coder/pygamergui-0.6)
 
 - 🌱 I’m currently learning **Django**
