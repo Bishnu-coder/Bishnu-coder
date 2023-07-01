@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with [Breakout-Game](https://github.com/Bishnu-coder/Breakout-Game)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bishnu-coder?tab=repositories](https://github.com/Bishnu-coder?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Bishnu-coder?tab=repositories)
 
-- 📝 I regularly write articles on [ishnu-coder.github.io](ishnu-coder.github.io)
+- 📝 I regularly write articles on [My website](https://bishnu-coder.github.io)
 
 - 💬 Ask me about **Pygame**
 
