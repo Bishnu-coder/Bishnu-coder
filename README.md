@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Parjapati</h1>
-<h3 align="center">A python Learner from Nepal</h3>
+<h3 align="center">A python Learner</h3>
 
 - 🔭 I’m currently working on [Pygamergui-0.6](https://github.com/Bishnu-coder/pygamergui-0.6)
 
